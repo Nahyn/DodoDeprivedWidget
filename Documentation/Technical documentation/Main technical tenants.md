@@ -1,0 +1,5 @@
+- Update oriented content
+	- Must allow to easily add a new version
+		- System of changelog to show the user what each version is about
+		- Automatically grab the latest content for each
+- 

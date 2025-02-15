@@ -1,0 +1,11 @@
+- "Point & Click" style of interface
+- Version-oriented content, update after chapters
+- Multiple locations available
+	- Each location has X characters present
+	- Moving between location via an "overworld map"
+	- The overworld map display which character is in each location
+	- Clicking on 1 character would 
+		- display a specific dialog between them and the others present in the same location
+			- maybe adding a "phone" overlay to allow people to talk to other not in the same scene (i.e. when Ruben is going to be at the University and we click on Alis/Nael)
+		- display information about the character
+		- display the gallery
